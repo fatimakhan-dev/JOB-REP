@@ -1,0 +1,6 @@
+{
+  "name": "Local Job Connector",
+  "description": "A platform connecting local job seekers with employers and jobs in their communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
